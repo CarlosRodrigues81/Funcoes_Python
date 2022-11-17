@@ -1,4 +1,4 @@
-## Zip manipula e mescla estruturas de dados e seus valores, porem o resultado sempre sera da o valor da menor estrutura de dados
+## Zip manipula e mescla estruturas de dados e seus valores, porem o resultado sempre sera o valor da menor estrutura de dados
 
 dicverduras={1:"cebola",2:"Alface",3:"Repolho",4:"Beterraba"}
 dicfrutas={1:"Maça",2:"Laranja",3:"Pera"}
